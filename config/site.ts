@@ -112,7 +112,8 @@ export const siteConfig = {
     Principal:{
         titulo:"¡Bienvenidos a:",
         nombreEscuela:"Centro Escolar Gustavo Vides Valdes",
-        Lema:"Donde el Éxito se Encuentra con la Educación!"
+        Lema:"Donde el Éxito se Encuentra con la Educación!",
+        ImagenFondo:"https://res.cloudinary.com/dtjc8lv4b/image/upload/v1697324365/escuela/image2_njnok5.jpg"
     },
     PiePagina:{
         NombreEscuela:"Centro Escolar Gustavo Vides Valdes",

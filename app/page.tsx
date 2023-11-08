@@ -7,7 +7,7 @@ const background = '../public/centro-escolar/223.jpeg'
 export default function Home() {
 	const schoolName = "Centro Escolar Gustavo Vides Valdes"
 	return (
-		<section className="flex flex-col items-center justify-center gap-4 p-10 bg-cover bg-center" style={{ backgroundImage: `url(centro-escolar/223.jpeg)` }}>
+		<section className="flex flex-col items-center justify-center gap-4 p-10 bg-cover bg-center" style={{ backgroundImage: `url(${siteConfig.Principal.ImagenFondo})` }}>
 			<div className="inline-block max-w-lg text-center justify-center p-5" style={{backgroundColor:"rgba(255, 255, 255, 0.8)"}}>
 				<h1 className={"tracking-tight inline font-semibold text-slate-600 text-2xl md:text-4xl lg:text-5xl"}>¡Bienvenidos a:<br/></h1>
 				<h1 className={title({color:"blue"})}>{siteConfig.name}</h1>
