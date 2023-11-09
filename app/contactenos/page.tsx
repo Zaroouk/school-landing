@@ -27,7 +27,6 @@ export default function ContactenosPage() {
     setTelefono(formattedNumber.trim());
   };
   const handleOnSubmit = () => onSubmit(dataForm)
-console.log(telefono)
   return (
   <div>
     <Card className='w-full m-0 p-10'>

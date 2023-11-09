@@ -48,17 +48,13 @@ async function onSubmitFooter(correo: string) {
       }
 
       const responseData = await response.json();
-      console.log('Response:', responseData);
+      // console.log('Response:', responseData);
     } catch (error) {
       console.error('Error:', error);
     }
   }
 
-interface dataUsuario{
-    nombre: string
-    apellido:string
-    correo:string
-}
+
 
   export function Footer(){
 
@@ -68,7 +64,6 @@ interface dataUsuario{
         onSubmitFooter(footerEmail);
       }
     const onChangeEmail = (e:any)=> setFooterEmail(e.target.value)
-    console.log(footerEmail)
       return(
           <div className="mx-auto container py-8 xl:px-20 lg:px-12 sm:px-6 px-4">
     <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-4 md:gap-8 gap-4">
