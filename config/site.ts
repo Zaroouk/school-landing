@@ -145,10 +145,10 @@ export const siteConfig = {
       {
         PrimeraLineaTitulo:"Conoce Más Sobre Nosotros En:",
         SegundaLineaTitulo:"Centro Escolar Gustavo Vides Valdes",
-        InformacionInstitucionPrimeraLinea:"¡Gracias por suscribirte a nuestro boletín de noticias! A partir de ahora, recibirás nuestras actualizaciones periódicas directamente en tu bandeja de entrada.",
-        InformacionInstitucionSegundaLinea:"Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.",
-        InformacionSuscripcionPrimeraLinea: "¡Gracias por suscribirte a nuestro boletín de noticias! A partir de ahora, recibirás nuestras actualizaciones periódicas directamente en tu bandeja de entrada.",
-        InformacionSuscripcionSegundaLinea:"Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos.",
+        InformacionInstitucionPrimeraLinea:"¡Gracias por su interes en nuestra Institucion.",
+        InformacionInstitucionSegundaLinea:"Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos, a nuestro numero de telefono o correo electronico presente en nuestra pagina web",
+        InformacionSuscripcionPrimeraLinea: "¡Gracias por Querer Conocer más sobre nuestra Institución.",
+        InformacionSuscripcionSegundaLinea:"Si tienes alguna pregunta o necesitas más información, no dudes en contactarnos a nuestro numero de telefono o correo electronico presente en nuestra pagina web.",
         EquipoEncargado:"Centro Escolar Gustavo Vides Valdes",
         CargoEquipoEncargado:"Equipo de Comunicaciones",
         Despedida:"Recuerda Visitar Nuestras Instalaciones"
